@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 -->
 
 ![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leotran20&&show_icons=true&&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotran20)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leotran20)
 
-<a href="https://github-readme-stats-khaki-two-56.vercel.app">
-  <img align="center" src="https://github-readme-stats-khaki-two-56.vercel.app/api?username=leotran20&&show_icons=true&&theme=radical" />
+<a href="https://github-readme-stats-dusky-nine-51.vercel.app/">
+  <img align="center" src="https://github-readme-stats-dusky-nine-51.vercel.app//api?username=leotran20&&show_icons=true&&theme=radical" />
 </a>
-<a href="https://github-readme-stats-khaki-two-56.vercel.app">
-  <img align="center" src="https://github-readme-stats-khaki-two-56.vercel.app/api/top-langs/?username=leotran20" />
+<a href="https://github-readme-stats-dusky-nine-51.vercel.app/">
+  <img align="center" src="https://github-readme-stats-dusky-nine-51.vercel.app/api/top-langs/?username=leotran20" />
 </a>
