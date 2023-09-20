@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github-readme-stats-git-master-leotran20.vercel.app/">
-  <img align="center" src="https://github-readme-stats-git-master-leotran20.vercel.app/api?username=leotran20&&show_icons=true&&theme=radical" />
+  <img height=200  align="center" src="https://github-readme-stats-git-master-leotran20.vercel.app/api?username=leotran20&&show_icons=true&&theme=radical" />
 </a>
 <a href="https://github-readme-stats-git-master-leotran20.vercel.app/">
-  <img align="center" src="https://github-readme-stats-git-master-leotran20.vercel.app/api/top-langs/?username=leotran20&layout=compact" />
+  <img height=200  align="center" src="https://github-readme-stats-git-master-leotran20.vercel.app/api/top-langs/?username=leotran20&layout=compact" />
 </a>
