@@ -1,4 +1,5 @@
-### Hi there, I'm Leo 🧑‍💻
+### Hi there, I'm Leo :technologist:
+Web Developer
 
 <!--
 **leotran20/leotran20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
