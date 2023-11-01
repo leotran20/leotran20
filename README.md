@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://leotran.live)
+
 ### Hi there, I'm Leo :technologist:
 
 I'm a passionate web developer with a strong foundation in JavaScript and a knack for crafting cutting-edge web applications. My journey into the world of programming started with a fascination for creating dynamic and interactive websites, and it has evolved into a versatile skill set.
@@ -46,3 +48,7 @@ Here are some ideas to get you started:
 <a href="https://github-readme-stats-git-master-leotran20.vercel.app/">
   <img height="180"  align="center" src="https://github-readme-stats-git-master-leotran20.vercel.app/api/top-langs/?username=leotran20&layout=compact" />
 </a>
+
+<h1>Badges</h1>
+
+[![An image of @leotran20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/leotran20)](https://holopin.io/@leotran20)
