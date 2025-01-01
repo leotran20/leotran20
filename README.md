@@ -22,7 +22,7 @@ I'm a firm believer in the power of continuous learning. In this fast-paced indu
 
 - 📧 Email: [leotran2au@gmail.com](mailto:leotran2au@gmail.com)
 - 💼 LinkedIn: [Leo Tran](https://www.linkedin.com/in/leotran20)
-- 🔗 My Portfolio: [leotran.live](https://www.leotran.live)
+- 🔗 My Portfolio: [leotran.tech](https://www.leotran.tech)
 
 
 Let's connect and build something amazing together! 🚀
